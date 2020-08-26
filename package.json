@@ -12,5 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jqeury": "0.0.1-security",
+    "popper.js": "^1.16.1"
   }
 }
